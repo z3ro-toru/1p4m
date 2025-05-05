@@ -1,0 +1,13 @@
+{
+    "type": "content",
+    "side": "client",
+    "modid": "1p4m",
+    "name": "1con pack 4 map",
+    "description": "Don't have enough icons to mark on your map? With this mod - will be more than enough.",
+    "authors": ["Z3R0_T0RU"],
+    "version": "1.0",
+    "website": "https://google.com",
+    "dependencies": {
+        "game": "1.20.0"
+    }
+}
