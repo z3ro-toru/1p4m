@@ -5,7 +5,7 @@
     "name": "1con pack 4 map",
     "description": "Don't have enough icons to mark on your map? With this mod - will be more than enough. Also changes some of the original ones!",
     "authors": ["Z3R0_T0RU"],
-    "version": "0.1-initial",
+    "version": "0.1.0",
     "website": "https://github.com/z3ro-toru/1p4m",
     "dependencies": {
         "game": "1.20.0"
